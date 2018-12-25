@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Houston"
+date:   2018-08-30 01:13:05 -0400
+categories: Memories
+---
+
+We don't have that many photos of Houston, so here is a two day compliation of one!
+
+There are other photos too, but it's mad late:
+
+Us at Rice!
+
+{:refdef: style="text-align: center;"}
+![My Image](/static/Houston/Rice_Mish.jpg)
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+![My Image](/static/Houston/Rice_Will.jpg)
+{: refdef}
+
+Us at their Fine Arts Museum:
+
+{:refdef: style="text-align: center;"}
+![My Image](/static/Houston/Awesome_tables.jpg)
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+![My Image](/static/Houston/Bamboo_Mess.jpg)
+{: refdef}
+
+We also watched a good about of Insatiable, worked out at the GYM! Ate a ton. Lived like true Americans...
