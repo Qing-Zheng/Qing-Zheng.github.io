@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Pandemic"
+date:   2020-06-21 05:13:05 -0400
+categories: Memories
+---
+
+Just as Michelle had started her education and I had almost completed mine, we had a pandemic. COVID-19 put the world on lockdown for a while. Observe Qing with his bowl haircut and all of us in a sun-lit living room together again. Apparently this was a day before William's birthday as well.
+
+{:refdef: style="text-align: center;"}
+![My Image](/static/Pandemic/picture_1.jpg)
+{: refdef}S
