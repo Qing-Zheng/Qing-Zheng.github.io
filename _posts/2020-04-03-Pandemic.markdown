@@ -9,4 +9,3 @@ Just as Michelle had started her education and I had almost completed mine, we h
 
 {:refdef: style="text-align: center;"}
 ![My Image](/static/Pandemic/picture_1.jpg)
-{: refdef}S
