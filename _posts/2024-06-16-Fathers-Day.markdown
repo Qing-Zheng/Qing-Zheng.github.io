@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pandemic"
+title:  "Father's Day 2024"
 date:   2024-06-16 12:13:05 -0400
 categories: Memories
 ---
