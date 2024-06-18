@@ -14,4 +14,3 @@ We then were resupplied at Costco and Young's farm, and then Dad drove us back t
 
 {:refdef: style="text-align: center;"}
 ![My Image 2](/static/2024-06-16/beef_noodle_soup.jpg)
-S
